@@ -86,7 +86,7 @@ function Container() {
         )}
       </div>
       <div className="bounce">
-        <p>Counter: {task.length}</p>
+        <p style={{ color: "black", fontWeight: "bold" }}>Counter: {task.length}</p>
         <button className="clear-button" onClick={clearTasks}>
           clear all
         </button>

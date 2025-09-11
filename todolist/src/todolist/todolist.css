@@ -78,7 +78,7 @@ body {
 }
 .clear-button {
   padding: 10px 15px;
-  background-color: #fa6161;
+  background-color: #ff4d4d;
   color: white;
   border: none;
   border-radius: 4px;
@@ -87,7 +87,7 @@ body {
   position: relative;
 }
 .clear-button:hover {
-  background-color: #ff4d4d;
+  background-color: #e04343;
 }
 .bounce {
   display: flex;

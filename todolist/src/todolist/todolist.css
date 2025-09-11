@@ -87,7 +87,7 @@ body {
   position: relative;
 }
 .clear-button:hover {
-  background-color: #e04343;
+  background-color: #ff4d4d;
 }
 .bounce {
   display: flex;

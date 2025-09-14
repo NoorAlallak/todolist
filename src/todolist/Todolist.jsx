@@ -1,5 +1,5 @@
-import Container from "./container";
+import Container from "./Container";
 function Todolist() {
-    return <Container />;
+  return <Container />;
 }
 export default Todolist;

@@ -16,7 +16,7 @@ function NavBarComponent() {
           alt="To-Do List Logo"
           className="w-12 h-12 mx-auto mb-2 rounded-full object-cover ml-4 my-2"
         />
-        <h1 className="text-white text-3xl font-bold ml-4 mt-2">
+        <h1 className="text-white text-3xl font-bold ml-20 mt-2">
           To-Do-List-Application
         </h1>
         <button
